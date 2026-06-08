@@ -171,7 +171,7 @@ one sentence about what it means in business terms. Example:
 ## ▶️ How to run it locally
 
 \`\`\`bash
-git clone https://github.com/[akanksha726]/customer-churn-predictor.git
+git clone https://github.com/akanksha726/customer-churn-predictor.git
 cd customer-churn-predictor
 
 python -m venv venv
