@@ -52,22 +52,45 @@ from Kaggle — 7,043 customers, 21 features.
 
 \`\`\`
 customer-churn-predictor/
+
+
 ├── data/
+
 │   ├── raw/              # original Kaggle CSV
+
 │   └── processed/        # cleaned data after Notebook 02
+
+
 ├── notebooks/
+
 │   ├── 01_explore.ipynb        # first look at the data
+
 │   ├── 02_clean.ipynb          # handling missing values, types
+
 │   ├── 03_eda.ipynb            # exploration, charts, hypotheses
+
 │   ├── 04_preprocess.ipynb     # encoding, scaling, train/test split
+
 │   ├── 05_train.ipynb          # train + compare 3 models
+
 │   ├── 06_evaluate.ipynb       # metrics, confusion matrix, SHAP
+
 │   └── 07_predict.ipynb        # single-customer prediction example
+
+
 ├── outputs/
+
 │   ├── figures/          # exported charts
+
 │   └── models/           # trained model (.pkl)
+
+
 ├── .gitignore
+
+
 ├── requirements.txt
+
+
 └── README.md
 \`\`\`
 
