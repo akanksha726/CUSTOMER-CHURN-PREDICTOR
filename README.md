@@ -226,6 +226,6 @@ Drop the CSV into `data/raw/` and rename to `telco_churn.csv`.
 
 ## 👤 About me
 
-Built by **[Your Name]** — [one-line bio about your background and interests].
+Built by **[Akanksha Singh]**
 
-🔗 [LinkedIn](#) &nbsp;|&nbsp; 💻 [GitHub](#) &nbsp;|&nbsp; ✉️ [Email](#)
+
